@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.BoardDeletion" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-29T18:09:10" hostname="LAPTOP-AKMCIEGD" time="11.888">
+  <properties/>
+  <testcase name="refuseBoardDeletion" classname="tests.BoardDeletion" time="11.888"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
